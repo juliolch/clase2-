@@ -10,3 +10,7 @@ def function():
     print("xd")
 
 function()
+
+
+def function():
+    print("hola mundo")
