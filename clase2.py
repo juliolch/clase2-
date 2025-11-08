@@ -9,4 +9,8 @@ class Estudiante:
 def function():
     print("xd")
 
-function()
+
+def function():
+    print("xd")
+
+
