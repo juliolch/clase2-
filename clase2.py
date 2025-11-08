@@ -10,7 +10,8 @@ def function():
     print("xd")
 
 function()
-
-
+a = 2
+t = "segunda clase git"
+print(t*a)
 def function():
-    print("hola mundo")
+    print("curso de git")
