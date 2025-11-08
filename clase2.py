@@ -13,5 +13,5 @@ function()
 a = 2
 t = "segunda clase git"
 print(t*a)
-def function():
-    print("curso de git")
+def function()
+    print("curso de git, hoy es 8 de nomviembre ")
