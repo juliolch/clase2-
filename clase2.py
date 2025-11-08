@@ -11,6 +11,9 @@ def function():
 
 function()
 
+x=2+2
+print(x)
+
 
 def function():
     print("hola mundo")
