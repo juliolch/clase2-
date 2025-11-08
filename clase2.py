@@ -1,15 +1,11 @@
-class persoa:
+class Persona:
     def __init__(self,n):
         self.nombre = n
 
-class estudiante:
+class Estudiante:
     def __init__(self,n):
         self.nombre = n
 
-class estudiantes:
-    def __init__(self,n):
-        self.nombre = n
-        
 def function():
     print("xd")
 
