@@ -6,7 +6,8 @@ class Profesor:
     def __init__(self,n):
         self.nombre = n
 
-a = 10
-b = 12
-c = 25
-total = a + b + c
+a = 5
+b = 7
+
+promedio = (a + b)/2
+print(promedio) 
